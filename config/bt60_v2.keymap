@@ -48,7 +48,7 @@
     raise {
         // ------------------------------------------------------------------------------------------
         // |GRAVE| F1  | F2  | F3  | F4  | F5  | F6  | F7  | F8  | F9  | F10 | F11 | F12 |    DEL   |
-        // | TAB  |  Q  | UP  |  E  | HUI | HUD |  Y  |  U  | INS |  O  |PSCRN| SLCK| P_B |  RGB_TOG|
+        // |STDULK|  Q  | UP  |  E  | HUI | HUD |  Y  |  U  | INS |  O  |PSCRN| SLCK| P_B |  RGB_TOG|
         // | CAPS  | LEFT| DOWN|RIGHT| BRI | BRD |  H  |  J  |  K  |  L  | HOME| PGUP|     BOOT     |
         // |  SHIFT   |VOLDN|VOLUP| MUTE|BLINC|BLDEC|  N  |  M  |  ,  | END | PGDN |      BL_TOG    |
         // | BT_PRV| BT_NXT|  ALT  |            SPACE               | ALT |   1  |  RESET  | BT_CLR |
